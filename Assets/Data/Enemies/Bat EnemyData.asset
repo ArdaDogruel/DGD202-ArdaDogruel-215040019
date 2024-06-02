@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fcc6ff6f8357f54f8a5ae7716a8c146, type: 3}
+  m_Name: Bat EnemyData
+  m_EditorClassIdentifier: 
+  Name: Bat
+  animatedPrefab: {fileID: 3753248599431082638, guid: 87d3569e3bf645f4fb5eee9c64b67d42, type: 3}
+  stats:
+    hp: 100
+    damage: 1
+    experience_reward: 30
+    moveSpeed: 2

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90aeb510c21db7d4b833c99893a7fade, type: 3}
+  m_Name: garlic
+  m_EditorClassIdentifier: 
+  upgradeType: 2
+  Name: Garlic
+  description: 
+  icon: {fileID: 21300000, guid: 6a4ec6072def32a46b121e48e440eec4, type: 3}
+  weaponData: {fileID: 11400000, guid: 8c7a1fbca38fb30478094b4a54a4adc5, type: 2}
+  weaponUpgradeStats:
+    damage: 0
+    timeToAttack: 0
+    numberOfAttacks: 0
+    numberOfHits: 0
+    projectileSpeed: 0
+    stun: 0
+    knockback: 0
+    knockbackTimeWeight: 0
+  item: {fileID: 0}
+  itemStats:
+    armor: 0
